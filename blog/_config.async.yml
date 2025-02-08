@@ -1,0 +1,58 @@
+favicon:
+  logo: /img/cat-logo-transparent.png # logo | 顶部 logo
+  icon16: /img/cat-logo-transparent.png # icon 16*16
+  icon32: /img/cat-logo-transparent.png # icon 32*32
+
+top_bars:
+    - title: home
+      url: /
+      noswup: true
+    - title: archives
+      url: /archives/
+      noswup: true
+    - title: category
+      url: /categories
+      noswup: true
+    - title: about
+      url: /about/
+      noswup: true
+
+user:
+  name: Tram Bui Thi Ngoc
+  first_name: IsHere
+  last_name: Tram
+  email: tram.btngocc@gmail.com
+  avatar: /img/cat-logo-transparent.png
+
+sidebar:
+  info:
+    - key: sidebar.residence
+      val: HCMC (Vietnam)
+    - key: university
+      val: UIT (VNU-HCM)
+    - key: academic year
+      val: 9/2022 - 1/2026
+  social:
+    - name: Github
+      icon: fab fa-github
+      url: https://github.com/tramcandoit
+    - name: Linkedin
+      icon: fab fa-linkedin
+      url: https://www.linkedin.com/in/tramcandoit
+
+banner:
+  use_cover: false 
+  default: 
+    type: img
+    bgurl: /img/banner.png
+    banner_text: Learning is a journey
+    position: top
+    fit: cover
+  index:
+    banner_title: SHARING <br> IS LEARNING
+    banner_text: Learning is a journey
+
+about:
+  insert: none
+  title: wtf
+  introduction: This is an introduction
